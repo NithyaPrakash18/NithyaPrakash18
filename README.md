@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=NithyaPrakashG&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=NithyaPrakash18&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
 
 ---
 
@@ -15,7 +15,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class NithyaPrakashG:
+class NithyaPrakash18:
     def __init__(self):
         self.name        = "Nithya Prakash G"
         self.location    = "Tamil Nadu, India 🇮🇳"
@@ -41,7 +41,7 @@ class NithyaPrakashG:
     def motto(self):
         return "Code it. Break it. Fix it. Ship it. 🚀"
 
-me = NithyaPrakashG()
+me = NithyaPrakash18()
 print(me.motto())
 ```
 
@@ -90,11 +90,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/NithyaPrakashG">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=NithyaPrakashG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/NithyaPrakash18">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=NithyaPrakash18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/NithyaPrakashG">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithyaPrakashG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/NithyaPrakash18">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithyaPrakash18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -103,7 +103,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NithyaPrakashG&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=NithyaPrakash18&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 ---
@@ -111,7 +111,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NithyaPrakashG&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NithyaPrakash18&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -119,7 +119,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NithyaPrakashG&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NithyaPrakash18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -130,10 +130,10 @@ print(me.motto())
 
 | 🚀 Project | 🛠️ Stack | ✨ Highlights |
 |:-----------|:---------|:-------------|
-| [**Hostel Management System**](https://github.com/NithyaPrakashG) | Python · Django | End-to-end hostel admin automation — improves accountability, accuracy & operational transparency. Handles resident records, room allocation & admin workflows. |
-| [**Urban Graze Dinner**](https://github.com/NithyaPrakashG) | HTML · CSS · JavaScript | E-commerce food hub with curated dinner menus, portion customization, secure checkout, saved addresses & live order-tracking — restaurant quality at home. |
-| [**Volunteer Sign-Up Board**](https://github.com/NithyaPrakashG) | Java · Spring Boot · Thymeleaf | Full-stack event management app — volunteers register, organisers manage sign-ups via clean REST-backed interface. |
-| [**Medical Equipment Demand Forecasting**](https://github.com/NithyaPrakashG) | Python · scikit-learn | End-to-end ML pipeline using regression, classification & clustering to deliver accurate demand forecasts; results visualised for operational decisions. |
+| [**Hostel Management System**](https://github.com/NithyaPrakash18) | Python · Django | End-to-end hostel admin automation — improves accountability, accuracy & operational transparency. Handles resident records, room allocation & admin workflows. |
+| [**Urban Graze Dinner**](https://github.com/NithyaPrakash18) | HTML · CSS · JavaScript | E-commerce food hub with curated dinner menus, portion customization, secure checkout, saved addresses & live order-tracking — restaurant quality at home. |
+| [**Volunteer Sign-Up Board**](https://github.com/NithyaPrakash18) | Java · Spring Boot · Thymeleaf | Full-stack event management app — volunteers register, organisers manage sign-ups via clean REST-backed interface. |
+| [**Medical Equipment Demand Forecasting**](https://github.com/NithyaPrakash18) | Python · scikit-learn | End-to-end ML pipeline using regression, classification & clustering to deliver accurate demand forecasts; results visualised for operational decisions. |
 
 </div>
 
@@ -188,7 +188,7 @@ print(me.motto())
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithyaprakashg)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NithyaPrakashG)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NithyaPrakash18)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/nithyaprakashg)
 [![SkillRack](https://img.shields.io/badge/SkillRack-00B4D8?style=flat-square&logo=skillshare&logoColor=white)](https://www.skillrack.com/profile/nithyaprakashg)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nithyaprakash.g2024cse@sece.ac.in)
